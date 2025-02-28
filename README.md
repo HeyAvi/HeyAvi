@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Avinash Jha (@Avinash-Jha)
+# 👋 Hi, I'm Avinash Jha (@HeyAvi)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Jha&show_icons=true&theme=radical" alt="Avinash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeyAvi&show_icons=true&theme=radical" alt="Avinash's GitHub stats" />
 </div>
 
 ## 💫 About Me
@@ -35,22 +35,22 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-jha)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Avinash_Jha_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://avinash-jha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-jha-2773321a6)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AvinashJhaaaa)
+[![Our Services](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pricing.webroose.com)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash-Jha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeyAvi&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Jha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyAvi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avinash-Jha&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HeyAvi&color=blueviolet" alt="Profile Views" />
   <p>Thanks for visiting! Check out my repositories and feel free to connect for collaborations or mentorship opportunities.</p>
 </div>
